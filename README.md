@@ -10,7 +10,7 @@ Repository for the paper:
 
 <!-- Single image: path tracking -->
 <p align="center">
-  <img src="figures/planning_result.png" alt="planned_path" width="400"/>
+  <img src="Figures/planning_result.png" alt="planned_path" width="400"/>
   <br/>
   <em>Planned dynamics-aware safe path for an autonomous vehicle.</em>
 </p>
